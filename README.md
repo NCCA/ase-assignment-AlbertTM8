@@ -1,5 +1,9 @@
 # Albert Jian Sheng Tan-Mulligan Assigment
 
+
+https://github.com/NCCA/ase-assignment-AlbertTM8/assets/115167346/b120257a-3367-4614-9ae9-f991861bbc1d
+
+
 ## How To Use The Program
 Once the program runs, a unit cylinder shape will be drawn through Bezier Curves. In the top left hand corner are the controls. The W/A/S/D/O/P buttons will translate the top circle of the cylinder in increments of 0.1. E/R are used to rotate these the top, and by pressing x y and z you change the axis in which it is being rotated. 1/2/3/4 will scale the circle in the x and the z. All of these controls are defined in world space and not local to the unit circle. 
 
